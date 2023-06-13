@@ -1,0 +1,21 @@
+C:\Users\Meraj\source\repos\SHop App\SHop App\obj\Debug\net6.0-windows\SHop App.csproj.AssemblyReference.cache
+C:\Users\Meraj\source\repos\SHop App\SHop App\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Meraj\source\repos\SHop App\SHop App\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Meraj\source\repos\SHop App\SHop App\obj\Debug\net6.0-windows\SHop App_MarkupCompile.cache
+C:\Users\Meraj\source\repos\SHop App\SHop App\obj\Debug\net6.0-windows\SHop App_MarkupCompile.lref
+C:\Users\Meraj\source\repos\SHop App\SHop App\bin\Debug\net6.0-windows\SHop App.exe
+C:\Users\Meraj\source\repos\SHop App\SHop App\bin\Debug\net6.0-windows\SHop App.deps.json
+C:\Users\Meraj\source\repos\SHop App\SHop App\bin\Debug\net6.0-windows\SHop App.runtimeconfig.json
+C:\Users\Meraj\source\repos\SHop App\SHop App\bin\Debug\net6.0-windows\SHop App.dll
+C:\Users\Meraj\source\repos\SHop App\SHop App\bin\Debug\net6.0-windows\SHop App.pdb
+C:\Users\Meraj\source\repos\SHop App\SHop App\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Meraj\source\repos\SHop App\SHop App\obj\Debug\net6.0-windows\SHop App.g.resources
+C:\Users\Meraj\source\repos\SHop App\SHop App\obj\Debug\net6.0-windows\SHop App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meraj\source\repos\SHop App\SHop App\obj\Debug\net6.0-windows\SHop App.AssemblyInfoInputs.cache
+C:\Users\Meraj\source\repos\SHop App\SHop App\obj\Debug\net6.0-windows\SHop App.AssemblyInfo.cs
+C:\Users\Meraj\source\repos\SHop App\SHop App\obj\Debug\net6.0-windows\SHop App.csproj.CoreCompileInputs.cache
+C:\Users\Meraj\source\repos\SHop App\SHop App\obj\Debug\net6.0-windows\SHop App.dll
+C:\Users\Meraj\source\repos\SHop App\SHop App\obj\Debug\net6.0-windows\refint\SHop App.dll
+C:\Users\Meraj\source\repos\SHop App\SHop App\obj\Debug\net6.0-windows\SHop App.pdb
+C:\Users\Meraj\source\repos\SHop App\SHop App\obj\Debug\net6.0-windows\SHop App.genruntimeconfig.cache
+C:\Users\Meraj\source\repos\SHop App\SHop App\obj\Debug\net6.0-windows\ref\SHop App.dll
